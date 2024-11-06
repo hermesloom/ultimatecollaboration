@@ -1,6 +1,6 @@
 At Ultimate Collaboration, a sub-project of [Hermes' Loom](https://hermesloom.org), we start off by collecting links to projects in similar realms, i.e. everything around **holistic regenerative transformation**. By checking out the mentioned links, you might get a better idea of what that means.
 
-Another main intention of this page is to illustrate that the ideas supported by Hermes' Loom are certainly not new – at same time, so far they haven't been connected in the all-addressing way we intend.
+Another main intention of this page is to illustrate that the ideas supported by Hermes' Loom are certainly not new – after all, the mission of Hermes' Loom is to weave together and to connect what already exists, not to reinvent the wheel. At same time, so far the mentioned projects don't seem to be interconnected in the all-addressing way we intend.
 
 If you would like to add any links, please [raise an issue on GitHub](https://github.com/hermesloom/ultimatecollaboration/issues) or contact synergies@hermesloom.org.
 
