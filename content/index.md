@@ -352,6 +352,7 @@ Note that all links stem purely from online research. Being listed here does not
 
 - https://thebrowser.company/values/
 - https://www.janestreet.com/culture/overview/
+- https://www.wk.com/news/wtf-is-a-good-company-anyway/
 
 ## Food production
 
@@ -438,6 +439,12 @@ Note that all links stem purely from online research. Being listed here does not
 - https://humanecology.ucdavis.edu/
 - https://www.amazon.de/-/en/Ian-L-McHarg/dp/047111460X
 - https://regeneration.org/
+- https://www.compo.de/service/frag-uns
+- https://www.bafu.admin.ch/bafu/de/home/themen/chemikalien/fachinformationen/sorgfaeltiger-umgang-mit-biozidprodukten/schaedlingsbekaempfung-v2.html
+- https://www.galabau.de/
+- https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/
+  - https://www.fao.org/soils-2015/faq/en/
+  - -> Integrated Nutrient Management!
 
 # Philosophy
 
