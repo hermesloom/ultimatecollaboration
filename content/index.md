@@ -46,6 +46,7 @@ Note that all links stem purely from online research. Being listed here does not
     - https://www.hylo.com/
     - https://www.heartbeat.chat/
     - https://www.mightynetworks.com/
+    - https://dandelion.events/
 - https://cityoftelosa.com/
 - https://en.wikipedia.org/wiki/Phalanstère
 - https://wiki.opensourceecology.org/wiki/Global_Village_Construction_Set
@@ -59,6 +60,7 @@ Note that all links stem purely from online research. Being listed here does not
     - https://sites.google.com/mauersegler.art/mauersegler
     - https://blog.burnerembassy.berlin/
     - https://the.burn.directory/
+    - https://burningnest.co.uk/2022/03/07/introducing-leave-a-better-trace/
 - Radical Faeries
     - https://en.m.wikipedia.org/wiki/Radical_Faeries
     - https://blog.queerburners.org/2-tribes-burner-v-faerie
@@ -77,6 +79,7 @@ Note that all links stem purely from online research. Being listed here does not
     - different membership stages and "paths"
 - https://www.kliemannsland.de/
 - https://www.teh.net/
+- https://www.doom.yoga/
 
 ## Organizations and leadership
 
@@ -97,7 +100,7 @@ Note that all links stem purely from online research. Being listed here does not
 
 # Movements
 
-## Second Renaissance and Game B
+## Metamodernism, Second Renaissance, Game B, Effective Altruism
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
@@ -108,9 +111,8 @@ Note that all links stem purely from online research. Being listed here does not
     - In short, the goal of GameB is a **metastable** society emphasizing human wellbeing built on good values that we will be happy to call home and we will be proud to leave to our descendants. (https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - https://www.limicon2024.com/
 - https://www.philosophyforlife.org/blog/the-florentine-moment
-
-## Effective Altruism
-
+- https://stephenreid.net/
+- https://stephenreid.substack.com/p/technological-metamodernism-course
 - https://www.effectivealtruism.org/
 - https://www.lesswrong.com/
 
@@ -141,12 +143,18 @@ Note that all links stem purely from online research. Being listed here does not
 - https://de.wikipedia.org/wiki/Systematizität_(Wissenschaftstheorie)
 - https://de.wikipedia.org/wiki/Einheitswissenschaft
 - https://de.wikipedia.org/wiki/International_Encyclopedia_of_Unified_Science
+- https://www.forum-grenzfragen.de/
 
 ## Wikimedia
 
 - https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct
     - https://outreach.wikimedia.org/wiki/Wikimedia:Village_pump
     - https://meta.wikimedia.org/wiki/Movement_Charter
+
+## German "Kollektive"
+
+- https://www.kdk.coop/
+- https://lebensbogen.org/gemeinschaft/ueber-uns
 
 # Educational resources
 
@@ -212,6 +220,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.museumofhappiness.org/
 - https://greatergood.berkeley.edu/
 - https://www.urban.org/about/mission-and-values
+- https://akademiefuerpotentialentfaltung.org/
 
 ## Death
 
@@ -233,6 +242,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://pixiepeemagic.com/
 - https://www.domina-portrait.com/
 - https://intimateartscenter.com/
+- https://www.mistressacademy.de/
 
 ## Societal
 
@@ -253,6 +263,10 @@ Note that all links stem purely from online research. Being listed here does not
     - https://my.rotary.org/en/who-we-are/about-rotary/action-plan
 - https://www.oneyoungworld.com/our-values
 - https://earthcharter.org/wp-content/uploads/2020/03/echarter_english.pdf?x68525
+- https://colorofchange.org/
+- https://www.democracycollaborative.org/
+- https://www.themixedspace.com/
+    - https://lilistiefel.com/
 
 ## Human rights
 
@@ -261,6 +275,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://transformdrugs.org/
 - https://hri.global/
 - Global Network of Sex Work Projects: https://www.nswp.org/
+- https://cartoonistsrights.org/
 
 ## Children
 
@@ -290,6 +305,7 @@ Note that all links stem purely from online research. Being listed here does not
 - finsubs
 - https://de.wikipedia.org/wiki/Soziale_%C3%96kologie_(Bookchin)
 - mutual promotion and support of businesses: https://hundert-prozent-amerang.de/gewerbeverzeichnis/
+- https://www.crowdpower.network/de
 
 ## Alternative currencies
 
@@ -484,7 +500,7 @@ Note that all links stem purely from online research. Being listed here does not
     - https://www.youtube.com/watch?v=330TEB6dst0
     - → something to become expected as a mark of quality
 
-# Religion and politics
+# Spirituality, religion, interfaith, cults
 
 - https://religiondatabase.org/landing
 - Bahá’í
@@ -493,12 +509,12 @@ Note that all links stem purely from online research. Being listed here does not
 - https://buddhastiftung.org/
 - https://www.orderofmalta.int/about-the-order-of-malta/spiritual-commitment/
     - three vows of poverty, chastity, and obedience
-- [https://en.wikipedia.org/wiki/Bodhipakkhiyādhammā](https://en.wikipedia.org/wiki/Bodhipakkhiy%C4%81dhamm%C4%81) and especially [https://en.wikipedia.org/wiki/Bodhipathapradīpa](https://en.wikipedia.org/wiki/Bodhipathaprad%C4%ABpa), three stages
-    - listener: [https://en.wikipedia.org/wiki/Śrāvakayāna](https://en.wikipedia.org/wiki/%C5%9Ar%C4%81vakay%C4%81na)
-    - solitary buddha (enlightened, but not teaching): [https://en.wikipedia.org/wiki/Pratyekabuddhayāna](https://en.wikipedia.org/wiki/Pratyekabuddhay%C4%81na)
+- https://en.wikipedia.org/wiki/Bodhipakkhiyādhammā and especially https://en.wikipedia.org/wiki/Bodhipathapradīpa, three stages
+    - listener: https://en.wikipedia.org/wiki/Śrāvakayāna
+    - solitary buddha (enlightened, but not teaching): https://en.wikipedia.org/wiki/Pratyekabuddhayāna
     - enlightened and teaching: https://en.wikipedia.org/wiki/Mahayana (Bodhisattvayāna)
-    - According to the [*Bodhipathapradīpa*](https://en.wikipedia.org/wiki/Bodhipathaprad%C4%ABpa) (*A Lamp for the Path to Awakening*) by the Indian master [Atiśa](https://en.wikipedia.org/wiki/Ati%C5%9Ba), the central defining feature of a bodhisattva's path is the universal aspiration to end suffering for themselves and all other beings, i.e. [*bodhicitta*](https://en.wikipedia.org/wiki/Bodhicitta).
-- https://www.rael.org/happiness-academy/ (note that Raël is an UFO cult)
+    - According to the https://en.wikipedia.org/wiki/Bodhipathaprad%C4%ABpa (*A Lamp for the Path to Awakening*) by the Indian master https://en.wikipedia.org/wiki/Ati%C5%9Ba, the central defining feature of a bodhisattva's path is the universal aspiration to end suffering for themselves and all other beings, i.e. https://en.wikipedia.org/wiki/Bodhicitta.
+- https://www.rael.org/happiness-academy/ (UFO cult)
 - https://en.wikipedia.org/wiki/Seven_virtues
     - https://en.wikipedia.org/wiki/Cardinal_virtues
 - https://en.wikipedia.org/wiki/Seven_Laws_of_Noah
@@ -506,7 +522,6 @@ Note that all links stem purely from online research. Being listed here does not
 - https://en.wikipedia.org/wiki/Three_Principles_of_the_People
 - https://inst-east-and-west.org/en/about/
 - https://en.wikipedia.org/wiki/Alevism
-- https://www.forum-grenzfragen.de/
 - https://en.wikipedia.org/wiki/Mental_factors_(Buddhism)
 - https://de.wikipedia.org/wiki/Kraft_durch_Freude
 - https://en.wikipedia.org/wiki/Phenomenology_of_religion
@@ -532,6 +547,14 @@ Note that all links stem purely from online research. Being listed here does not
 - https://en.wikipedia.org/wiki/Black_propaganda
 - https://eckharttolle.com/
 - https://www.churchofeuthanasia.org/
+
+# Politics
+
+- https://www.dbb.de/
+- https://de.wikipedia.org/wiki/Post-Politik
+- https://de.wikipedia.org/wiki/Postmarxismus
+- https://de.wikipedia.org/wiki/Radikaldemokratie
+  - https://www.cafe-libertad.de/zapatismus
 
 # Transhumanism
 
