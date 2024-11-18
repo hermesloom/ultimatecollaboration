@@ -12,4 +12,5 @@ export default {
     text: "Ultimate Collaboration",
   },
   theme: { default: "" },
+  analytics: "G-JMTF8WQ8GL",
 };
