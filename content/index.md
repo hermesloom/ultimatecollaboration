@@ -566,6 +566,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.churchofeuthanasia.org/
 - https://holyloveinstitute.com/
 - https://sacred-texts.com/
+- https://hr.wikipedia.org/wiki/Me%C4%91ugorski_fenomen
+  - https://www.medjugorje.de/files/user_upload/Neuanlage_Bilder_ab_2023/Botschaften/Alle_Botschaften_der_Muttergottes_Medjugorje_20240625.pdf
 
 # Politics
 
