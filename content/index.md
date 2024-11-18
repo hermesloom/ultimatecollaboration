@@ -97,6 +97,7 @@ Note that all links stem purely from online research. Being listed here does not
 - dialogue
   - https://artofhosting.org/
   - https://kelvybird.com/generative-scribing/
+- https://www.spiritual-integrity.org/about-us/
 
 # Movements
 
@@ -144,6 +145,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://de.wikipedia.org/wiki/Einheitswissenschaft
 - https://de.wikipedia.org/wiki/International_Encyclopedia_of_Unified_Science
 - https://www.forum-grenzfragen.de/
+- https://scienceandnonduality.com/mission/
 
 ## Wikimedia
 
@@ -159,8 +161,8 @@ Note that all links stem purely from online research. Being listed here does not
 # Educational resources
 
 - https://www.globalonenessproject.org/ (mostly focused on educational resources, not so much community building or other action)
-- https://www.mindvalley.com/ (but very “American”)
-- https://theshiftnetwork.com/about (even more almost disgustingly American with its “CEO” and “CIO”)
+- https://www.mindvalley.com/
+- https://theshiftnetwork.com/about
 - https://worldcitizen.school/
 
 # Mapping and measuring well-being
@@ -221,6 +223,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://greatergood.berkeley.edu/
 - https://www.urban.org/about/mission-and-values
 - https://akademiefuerpotentialentfaltung.org/
+- https://www.landmarkworldwide.de/the-landmark-forum
 
 ## Death
 
@@ -234,6 +237,10 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.adec.org/
 - https://amp.focus.de/familie/erziehung/kita-auf-einem-friedhof-abenteuerspielplatz-zwischen-graebern_id_4302572.html
 
+## Health
+
+- https://yogaalliance.org/
+
 ## Sexual health
 
 - https://thepleasureproject.org/the-pleasure-principles/
@@ -243,6 +250,9 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.domina-portrait.com/
 - https://intimateartscenter.com/
 - https://www.mistressacademy.de/
+- https://holyloveinstitute.com/foundation/kaula-tantra/
+- https://ista.life/
+- https://andyburu.se/home/
 
 ## Societal
 
@@ -267,6 +277,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.democracycollaborative.org/
 - https://www.themixedspace.com/
     - https://lilistiefel.com/
+- https://wellbeing-project.org/
+- https://www.ctipp.org/ctipp-vision
 
 ## Human rights
 
@@ -499,9 +511,14 @@ Note that all links stem purely from online research. Being listed here does not
 - “a designer’s job is not to have all the right answers, but to know the right questions and who to ask”
     - https://www.youtube.com/watch?v=330TEB6dst0
     - → something to become expected as a mark of quality
+- https://www.cittaslow.de/
+  - https://de.wikipedia.org/wiki/Citt%C3%A0slow
 
 # Spirituality, religion, interfaith, cults
 
+- https://parliamentofreligions.org/
+  - https://belurmath.org/swami-vivekananda-speeches-at-the-parliament-of-religions-chicago-1893/
+  - https://www.pdcnet.org/collection/show?id=wcp22_2008_0045_0171_0176&file_type=pdf
 - https://religiondatabase.org/landing
 - Bahá’í
     - https://www.bic.org/
@@ -547,6 +564,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://en.wikipedia.org/wiki/Black_propaganda
 - https://eckharttolle.com/
 - https://www.churchofeuthanasia.org/
+- https://holyloveinstitute.com/
+- https://sacred-texts.com/
 
 # Politics
 
@@ -555,6 +574,10 @@ Note that all links stem purely from online research. Being listed here does not
 - https://de.wikipedia.org/wiki/Postmarxismus
 - https://de.wikipedia.org/wiki/Radikaldemokratie
   - https://www.cafe-libertad.de/zapatismus
+- https://www.politicaltech.eu/
+- https://newspeak.house/
+- https://www.ipu.org/
+- https://oliverwasser.com/after-awakening/
 
 # Transhumanism
 
@@ -574,6 +597,20 @@ Note that all links stem purely from online research. Being listed here does not
 # Theatre, dance, music
 
 - https://www.instagram.com/amenti.world
+
+# Book publishers
+
+- https://www.hachettebookgroup.com/
+
+# Lawyers
+
+- https://holisticlawyers.org/
+- https://www.holisticlegal.org/
+- http://www.holisticlegal.com/
+- henist legal?
+  - Integrative law
+- https://www.amberlaw.com/holistic-law/holistic-law-movement/what-is-the-holistic-law-movement
+  - reframing justice from a win- lose duality lens, to a win-win non-duality viewpoint
 
 # Miscellaneous
 
