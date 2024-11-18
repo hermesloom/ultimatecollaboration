@@ -2,7 +2,7 @@ At Ultimate Collaboration, a sub-project of [Hermes' Loom](https://hermesloom.or
 
 Another main intention of this page is to illustrate that the ideas supported by Hermes' Loom are certainly not new – after all, the mission of Hermes' Loom is to weave together and to connect what already exists, not to reinvent the wheel. At same time, so far the mentioned projects don't seem to be interconnected in the all-addressing way we intend.
 
-If you would like to add any links, please [raise an issue on GitHub](https://github.com/hermesloom/ultimatecollaboration/issues) or contact synergies@hermesloom.org.
+If you would like to add any links, have further questions or anything else, please [raise an issue on GitHub](https://github.com/hermesloom/ultimatecollaboration/issues) or contact synergies@hermesloom.org.
 
 Note that all links stem purely from online research. Being listed here does not necessarily imply endorsement, and some links are here to show how NOT to do it. This list is still pretty messy, I know. Some links might be in wrong categories.
 
