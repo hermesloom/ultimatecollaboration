@@ -318,6 +318,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://de.wikipedia.org/wiki/Soziale_%C3%96kologie_(Bookchin)
 - mutual promotion and support of businesses: https://hundert-prozent-amerang.de/gewerbeverzeichnis/
 - https://www.crowdpower.network/de
+- https://charleseisenstein.org/books/sacred-economics/
 
 ## Alternative currencies
 
@@ -613,6 +614,8 @@ Note that all links stem purely from online research. Being listed here does not
   - Integrative law
 - https://www.amberlaw.com/holistic-law/holistic-law-movement/what-is-the-holistic-law-movement
   - reframing justice from a win- lose duality lens, to a win-win non-duality viewpoint
+- https://www.awakeninglawyers.com/
+  - https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147527131/downloads/2B76wYj3QdgusBqjSrmc_Awakening_Lawyers_Giveaway_Guide.pdf
 
 # Miscellaneous
 
