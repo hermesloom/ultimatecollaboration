@@ -80,6 +80,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.kliemannsland.de/
 - https://www.teh.net/
 - https://www.doom.yoga/
+- https://feytopia.com/
+  - https://futurecrafters.substack.com/p/futurecraft-at-feytopia
 
 ## Organizations and leadership
 
@@ -116,11 +118,13 @@ Note that all links stem purely from online research. Being listed here does not
 - https://stephenreid.substack.com/p/technological-metamodernism-course
 - https://www.effectivealtruism.org/
 - https://www.lesswrong.com/
+- https://dandelion.events/films
 
 ## Commons
 
 - https://p2pfoundation.net/the-p2p-foundation/about-the-p2p-foundation
     - https://wiki.p2pfoundation.net/International_Commons_Conference_-_2010
+- https://commonsstrategies.org/about/
 
 ## Secret societies
 
@@ -146,6 +150,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://de.wikipedia.org/wiki/International_Encyclopedia_of_Unified_Science
 - https://www.forum-grenzfragen.de/
 - https://scienceandnonduality.com/mission/
+- https://en.wikipedia.org/wiki/David_Bohm
 
 ## Wikimedia
 
@@ -224,6 +229,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.urban.org/about/mission-and-values
 - https://akademiefuerpotentialentfaltung.org/
 - https://www.landmarkworldwide.de/the-landmark-forum
+- https://www.tribute.co/
 
 ## Death
 
@@ -279,6 +285,7 @@ Note that all links stem purely from online research. Being listed here does not
     - https://lilistiefel.com/
 - https://wellbeing-project.org/
 - https://www.ctipp.org/ctipp-vision
+- https://www.thezeitgeistmovement.com/mission-statement
 
 ## Human rights
 
@@ -350,6 +357,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.valleyforgecapital.com/philosophy
 - https://www.fastcompany.com/world-changing-ideas/list
 - https://philea.eu/
+- https://cosmos-institute.org/
 
 ## Asset managers
 
@@ -453,6 +461,8 @@ Note that all links stem purely from online research. Being listed here does not
     - https://www.howtokillanarcissist.com/artikel-zum-thema-narzissmus/ein-leitfaden-zur-heilung-von-narzisstischem-missbrauch/
     - https://www.amazon.de/-/en/Dr-Craig-Malkin/dp/0062348116
     - https://www.amazon.de/Escaping-Void-Support-Emotionally-Relationships/dp/139994813X/
+- https://rtt.com/ (Rapid Transformational Therapy)
+- https://www.hypnosisalliance.com/imdha/
 
 # Ecology
 
@@ -474,6 +484,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.fao.org/soils-portal/data-hub/soil-maps-and-databases/faounesco-soil-map-of-the-world/en/
   - https://www.fao.org/soils-2015/faq/en/
   - -> Integrated Nutrient Management!
+- https://www.thevenusproject.com/
 
 # Philosophy
 
@@ -569,6 +580,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://sacred-texts.com/
 - https://hr.wikipedia.org/wiki/Me%C4%91ugorski_fenomen
   - https://www.medjugorje.de/files/user_upload/Neuanlage_Bilder_ab_2023/Botschaften/Alle_Botschaften_der_Muttergottes_Medjugorje_20240625.pdf
+- https://www.youtube.com/watch?v=mV98gVg36p0
 
 # Politics
 
@@ -580,7 +592,9 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.politicaltech.eu/
 - https://newspeak.house/
 - https://www.ipu.org/
-- https://oliverwasser.com/after-awakening/
+- https://decidim.org/
+- https://pol.is/home
+- https://liqd.net/en/
 
 # Transhumanism
 
