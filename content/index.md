@@ -151,6 +151,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://www.forum-grenzfragen.de/
 - https://scienceandnonduality.com/mission/
 - https://en.wikipedia.org/wiki/David_Bohm
+- https://www.eranosfoundation.org/page.php?page=2&pagename=mission
 
 ## Wikimedia
 
@@ -286,6 +287,10 @@ Note that all links stem purely from online research. Being listed here does not
 - https://wellbeing-project.org/
 - https://www.ctipp.org/ctipp-vision
 - https://www.thezeitgeistmovement.com/mission-statement
+- https://www.zentrum-demokratische-kultur.de/
+    - https://www.exit-deutschland.de/
+    - https://www.hayat-deutschland.de/
+- https://homewards.org.uk/
 
 ## Human rights
 
@@ -379,6 +384,7 @@ Note that all links stem purely from online research. Being listed here does not
 - Stiftungsfonds: https://www.private-banking-magazin.de/stiftungsmanagement-private-banking-kundenstiftung-vermoegensverwaltung/?page=3
     - “Rechtstechnisch handelt es sich bei einem Stiftungsfonds um eine Zustiftung zu einer bereits bestehenden Stiftung und nicht um ein selbstständiges Stiftungsvermögen im Sinne einer Stiftung. Der Kunde gründet somit keine eigene Stiftung, wenn er den Weg über die Gemeinschaftsstiftung wählt – er richtet einen Stiftungsfonds innerhalb einer bereits bestehenden Stiftung ein, ist somit Zustifter. Privatkunden können das Stiftungsvermögen beziehungsweise ihren eigenen Stiftungsfonds sowohl zu Lebzeiten als auch über eine entsprechende testamentarische Verfügung aufstocken. Daneben sind Spenden – auch in den einzelnen Stiftungsfonds hinein – möglich.”
     - “Der Staat belohnt gemeinnützige Stiftungen mit der Freistellung von Schenkung- und Erbschaftsteuern. […] Die Erträge, die die Stiftung alljährlich erzielt, sind von allen Steuern befreit.”
+- https://www.eu-inc.org/
 
 ## Insurance
 
@@ -463,6 +469,8 @@ Note that all links stem purely from online research. Being listed here does not
     - https://www.amazon.de/Escaping-Void-Support-Emotionally-Relationships/dp/139994813X/
 - https://rtt.com/ (Rapid Transformational Therapy)
 - https://www.hypnosisalliance.com/imdha/
+- https://cpalondon.com/
+- https://1111art.org/
 
 # Ecology
 
@@ -630,6 +638,18 @@ Note that all links stem purely from online research. Being listed here does not
   - reframing justice from a win- lose duality lens, to a win-win non-duality viewpoint
 - https://www.awakeninglawyers.com/
   - https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147527131/downloads/2B76wYj3QdgusBqjSrmc_Awakening_Lawyers_Giveaway_Guide.pdf
+
+# Food
+
+- https://www.slowfood.com/de/
+
+# Technology
+
+- https://pir.org/
+
+# Journalism
+
+- https://www.uncensoredlibrary.com/
 
 # Miscellaneous
 
