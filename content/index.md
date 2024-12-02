@@ -154,6 +154,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.doom.yoga/
 - https://feytopia.com/
   - https://futurecrafters.substack.com/p/futurecraft-at-feytopia
+- https://thegarden.love/
 
 ## Organizations and leadership
 
