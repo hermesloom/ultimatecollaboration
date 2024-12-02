@@ -175,7 +175,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 # Movements
 
-## Metamodernism, Second Renaissance, Game B, Effective Altruism
+## Metamodernism, Second Renaissance, Game B, Effective Altruism, Modern Wisdom, Liminal Web
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
@@ -189,6 +189,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.effectivealtruism.org/
 - https://www.lesswrong.com/
 - https://dandelion.events/films
+- https://www.youtube.com/@johnvervaeke/videos
 
 ## Commons
 
