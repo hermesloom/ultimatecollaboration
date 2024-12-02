@@ -1,10 +1,71 @@
-At Ultimate Collaboration, a sub-project of [Hermes' Loom](https://hermesloom.org), we start off by collecting links to projects in similar realms, i.e. everything around **holistic regenerative transformation**. By checking out the mentioned links, you might get a better idea of what that means.
+# Intention
 
-Another main intention of this page is to illustrate that the ideas supported by Hermes' Loom are certainly not new – after all, the mission of Hermes' Loom is to weave together and to connect what already exists, not to reinvent the wheel. At same time, so far the mentioned projects don't seem to be interconnected in the all-addressing way we intend.
+Ultimate Collaboration is a **digital encyclopedia**, a kind of "Synergypedia", a collection of links which, in their totality, can offer a less compartmentalized view on movements, communities, ideas and theories which all go along with the abstract societal vision we're having, which, as a working title, I call **"the regenerative societal transformation towards holistic well-being"** (super catchy, I know) or shorter **"holistic regenerative transformation"**. Inspired by the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die), the "Wikipedia of the Enlightenment" which, back in its days, allowed interdisciplinary research like never before, Ultimate Collaboration aims to collect, but most importantly **interconnect** the communities which all work on their piece towards our shared vision of a flourishing world. And instead of publishing books, we do this in the digital and leverage all the magical technological capabilities this new medium gives us.
 
-If you would like to add any links, have further questions or anything else, please [raise an issue on GitHub](https://github.com/hermesloom/ultimatecollaboration/issues) or contact synergies@hermesloom.org.
+Ultimate Collaboration is a **call to work on overcoming differences**. All of what's listed here might be slightly different from each other, some maybe a bit more decentralized, some a bit less, some very generalist, some very specialist, some more technical, some more nature-focused, some with a more formalized approach, some with a more intuitive approach, some more pragmatic, some more idealistic. But _somehow_, we all want the same. Never forget this: We are not working against each other. Additionally, note that I don't endorse _all_ the ideas and organizations listed here. But it should become pretty clear from the context which ones make sense, which ones just give a certain new perspective and which ones are counterexamples.
 
-Note that all links stem purely from online research. Being listed here does not necessarily imply endorsement, and some links are here to show how NOT to do it. This list is still pretty messy, I know. Some links might be in wrong categories.
+Ultimate Collaboration is a sort of "interconnection forum", i.e. an **invitation...**
+
+- **...to participate and actively interconnect**. After all, absolutely none of the ideas that make up what I call "holistic regenerative transformation" are new. We're not painting a new picture, we're just assembling a glorious puzzle. Maybe you already are or feel like you want to be part of one of the following projects or just learn more about the ideas behind them? Maybe you have already heard one of the ideas listed here, and maybe you're already completely onboard, or you're still doubtful? In any case: interconnect knowledge, interconnect people, interconnect yourself. If you've been in similar social circles all your life, look beyond! We all live in one street, and your neighbors, both physically and intellectually, can (and should!) actually be really nice and inclusive. And if you discover any new neighbors or desire clarifications or other changes, please [raise an issue on GitHub](https://github.com/hermesloom/ultimatecollaboration/issues) or contact synergies@hermesloom.org.
+
+- **...to translate**. If you're feeling adventurous, try to conceptualize what all these ideas have in common. Don't just translate across languages, but also across social circles, ideologies, religions and schools of thinking. Not only rationalists and emotionalists, but also a populist, dogmatist, sexist, racist, and even someone who still very consciously hates themselves will eventually benefit of mutual empathy just like everyone else, because connecting to what we stand for emotionally and from a cultural perspective is not only fundamentally regenerative, but also deeply nurturing.
+
+Ultimate Collaboration is a **community of the next generation of librarians**. Others have already perfected the art of knowledge retrieval, whether through physical books or in the digital. But we take this a step further: We want to become able to tell people with absolutely good faith and conscience: "hey, look, maybe _this_ is something you want more of in your life right now!". We just point people towards where they can look, in case they want to drive both the development of themselves as humans and the development of the world. Metaphorically speaking, we are not mapmakers, but instead we distribute the tools for mapmaking and are thus in service to the autodidacts.
+
+Ultimate Collaboration is a **safe space** with certain cultural standards. We agree that we want to treat each other **well** and want to be actively inclusive to everyone, while still upholding our standards of communication of having the intention to communicate in a way that feels embracing, no matter how justified the criticism. Acts of destructive aggression, both physically, structurally and emotionally, and no matter how big or small, will not be tolerated. Apart from being visionary, joyful, pragmatic, logical and emotionally intelligent, we are also pretty damn cozy. Express your boundaries and they will be law to us.
+
+# Proposed improvements for this page
+
+All project management happens on GitHub at https://github.com/hermesloom/ultimatecollaboration, according to usual co-creative [open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) conventions. If you're unsure what that means but you simply want to contribute, just open an issue on GitHub with what's on your mind and we'll welcome you with open arms.
+
+## Collecting events
+
+So many communities have certain virtual or physical meetups and events with all kinds of intentions, such as:
+
+- Chill hangouts for everyone to visit
+- Presentations (incl. those at conferences) for a more structured way to convey knowledge
+- Exhibitions of creative works of any medium
+- Co-working in any domain of work (incl. hackathons, makerspaces etc.)
+- Community support groups
+- Celebrations
+- and so many more
+
+Let's collect these events, so that people can more easily find events which they might like, but which they might not have previously heard about! On a more generalized scale, this could later evolve into an LLM-based system which ingests the public newsletters from all the listed organizations and then each individual could receive a fully personalized "best of" with only those chunks of information which they previously marked as "this is what I'm interested in" or "this is what is relevant to me".
+
+## Collecting social conventions
+
+Every community will have different slightly ways of "doing things", and not knowing those can quickly bring one into awkward situations. So let's make these unwritten, practical "rules" written, to avoid disappointments because of misunderstandings and find out together how to navigate walking between worlds!
+
+As an example of social conventions, let's take the considerations regarding "entering" a community. For some communities it might simply be a video call with a certain person. But for some, such as the global Burning Man culture, due to their decentralized architecture, there might not be single people you can contact, so going to a physical burn in your country or anywhere else, getting to know people, sharing interests and just "immersing yourself" by working together on dreams is simply, by definition, "the" way to get into the Burner culture. After all, many communities love "doers", not just observers.
+
+As further examples, some communities might have certain communication structures (e.g. what's communicated in which channels and when does who get which access to which channels?), decision structures, certain standards on the structure of conversations, certain conventions on group sizes, certain desires or boundaries regarding emotional closeness, certain expectations regarding time investment, etc. These might not be obvious from the outside, but having them stated will save a lot of time and energy for everyone involved.
+
+This also includes the reflection of a community's intentions in its **implicit and explicit power structures**. For example for communities which also have a certain legal and economical structure: What are the concrete implications of these positions of "formalized power"? After all, all group dynamics always somehow imply power structures, and we want to aim for those to be communicated transparently.
+
+## Better structure and filtering
+
+Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, such as
+
+- type of link (e.g. community, event, concept, platform, educational resource)
+- purpose and mission, i.e. what is being strived for?
+- semantic closeness to one's own knowledge, past experiences, interests, skills and visions
+  - sometimes "closer is more desirable", but sometimes also "more distant is more desirable", for when someone wants to branch out into completely new subject matters or experiences
+- closeness to one's physical location (if applicable)
+- suggested time investment
+- compatibility with one's own desires (see "Collecting social conventions") and overall current life circumstances
+
+## Measuring effectivity
+
+For evaluating the effectiveness of all the ways to further structure this page, our main purely quantitiative metrics should include:
+
+- number of people that found amazing experiences through us, intellectually and/or emotionally
+- number of people that now say 'this is where I want to belong and where I feel good'
+
+Due to the intentionally subjective phrasing of these metrics as well as the decentralized architecture of Ultimate Collaboration itself, this feedback can only be obtained in an inbound, **self-reported** form through methods which are yet to be set up (e.g. in the beginning something like Google Forms, later more advanced solutions).
+
+These are the metrics that should _always_ be considered when advancing the development of Ultimate Collaboration: We don't collect links for the sake of collecting links or for the sake of the structure we will create, but we collect links to **help people**. If people who have never heard about Ultimate Collaboration before visit this site for the first time, and they feel like it's boring, overwhelming, chaotic etc., we have failed and must improve. Listening to user feedback is essential.
+
+---
 
 # Generalized frameworks
 
@@ -19,15 +80,22 @@ Note that all links stem purely from online research. Being listed here does not
         - The essence of presencing is that these two selves – our current self and our best future self – meet at the bottom of the U and begin to listen and resonate with each other. Once a group crosses this threshold, nothing remains the same. Individual members and the group as a whole begin to operate with a heightened level of energy and sense of future possibility. Often they then begin to function as an intentional vehicle for an emerging future.
 - https://www.unifiedtheoryofknowledge.org/home
 - https://weltethos-institut.org/
+- https://henophilia.org/
 
 # Mapping efforts
 
+The following projects, as well as all other "mapping projects" we can find, need to be consolidated into Ultimate Collaboration. After all, we strive to go far beyond mapping.
+
 - https://web.archive.org/web/20211024000905/https://enrichlist.org/the-list/#.YXSkI-zP32c
     - https://web.archive.org/web/20130902135718/http://enrichlist.org/about/
-- https://wiki.secondrenaissance.net/wiki/An_overview_of_related_ecosystem_mapping_efforts
+- https://secondrenaissance.net/ecosystem
+    - https://wiki.secondrenaissance.net/wiki/An_overview_of_related_ecosystem_mapping_efforts
+- https://www.ama-project.org/explore/?vis=map
+- https://www.gameb.wiki/index.php?title=Category:Projects
 - https://kumu.io/Naryan/the-flourishing-of-all-living-things
     - It's like how there are Complexity Theory folks and Embodied Complexity folks. I'm using maps like they are a part of my body, not like a tool that exists independent of the mapper.
     - https://rsdsymposium.org/embodied-complexity-exploring-complexity-and-playing-with-tensions-through-embodied-experiences/
+- https://developmentalspaces.org/examples
 
 # Communities
 
@@ -107,10 +175,8 @@ Note that all links stem purely from online research. Being listed here does not
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
-- https://wiki.secondrenaissance.net/wiki/An_overview_of_related_ecosystem_mapping_efforts
-- https://www.ama-project.org/explore/?vis=map
-- https://www.gameb.wiki/index.php?title=Category:Projects
-    - https://www.youtube.com/watch?v=E_cyCuCKQhs
+
+- https://www.youtube.com/watch?v=E_cyCuCKQhs
     - In short, the goal of GameB is a **metastable** society emphasizing human wellbeing built on good values that we will be happy to call home and we will be proud to leave to our descendants. (https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - https://www.limicon2024.com/
 - https://www.philosophyforlife.org/blog/the-florentine-moment
@@ -152,6 +218,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://scienceandnonduality.com/mission/
 - https://en.wikipedia.org/wiki/David_Bohm
 - https://www.eranosfoundation.org/page.php?page=2&pagename=mission
+- https://de.wikipedia.org/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
 
 ## Wikimedia
 
@@ -163,6 +230,12 @@ Note that all links stem purely from online research. Being listed here does not
 
 - https://www.kdk.coop/
 - https://lebensbogen.org/gemeinschaft/ueber-uns
+
+## Hackers
+
+- https://www.ccc.de/en/hackerethik
+  - https://help.ccc.de/principles.en.html
+  - https://events.ccc.de/en/calendar/
 
 # Educational resources
 
@@ -273,6 +346,7 @@ Note that all links stem purely from online research. Being listed here does not
 - https://actionforhappiness.org/10-keys
     - the fact that they have an app with an integrated social network is amazing!
 - https://transitionnetwork.org/about-the-movement/what-is-transition/principles-2/
+    - https://www.robhopkins.net/
     - https://transitionnetwork.org/wp-content/uploads/2018/08/The-Essential-Guide-to-Doing-Transition-English-V1.2.pdf
 - https://practicalaction.org/our-aims/
 - https://okfn.de/profil/
@@ -291,6 +365,8 @@ Note that all links stem purely from online research. Being listed here does not
     - https://www.exit-deutschland.de/
     - https://www.hayat-deutschland.de/
 - https://homewards.org.uk/
+- https://charterforcompassion.org/who-we-are/
+- https://hermesloom.org/
 
 ## Human rights
 
@@ -331,6 +407,7 @@ Note that all links stem purely from online research. Being listed here does not
 - mutual promotion and support of businesses: https://hundert-prozent-amerang.de/gewerbeverzeichnis/
 - https://www.crowdpower.network/de
 - https://charleseisenstein.org/books/sacred-economics/
+- https://www.econgood.org/
 
 ## Alternative currencies
 
@@ -481,7 +558,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://en.wikipedia.org/wiki/Nature_deficit_disorder
     - https://www.amazon.de/Last-Child-Woods-Nature-Deficit-Nature-deficit/dp/156512605X
 - https://pragya.org/about-us
-- https://en.wikipedia.org/wiki/Deep_ecology
+- https://en.wikipedia.org/wiki/Ecosophy
+  - https://en.wikipedia.org/wiki/Deep_ecology
 - https://en.wikipedia.org/wiki/Gaia_hypothesis
 - https://humanecology.ucdavis.edu/
 - https://www.amazon.de/-/en/Ian-L-McHarg/dp/047111460X
@@ -603,6 +681,8 @@ Note that all links stem purely from online research. Being listed here does not
 - https://decidim.org/
 - https://pol.is/home
 - https://liqd.net/en/
+- https://partei-des-fortschritts.de/grundsaetze/
+- https://en.wikipedia.org/wiki/Radical_centrism
 
 # Transhumanism
 
@@ -650,6 +730,12 @@ Note that all links stem purely from online research. Being listed here does not
 # Journalism
 
 - https://www.uncensoredlibrary.com/
+- https://aeon.co/about
+  - https://psyche.co/
+
+# Indigenous
+
+- https://sacredinstructions.life/
 
 # Miscellaneous
 
