@@ -50,6 +50,7 @@ This also includes the reflection of a community's intentions in its **implicit 
 Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the structure of the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die), the [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog) or similar projects? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, depending on a user's desires, such as:
 
 - type of link (e.g. community, event, concept, platform, educational resource)
+- language
 - purpose and mission, i.e. what is being strived for?
 - semantic closeness to one's own knowledge, past experiences, interests, skills and visions
   - sometimes "closer is more desirable", but sometimes also "more distant is more desirable", for when someone wants to branch out into completely new subject matters or experiences
