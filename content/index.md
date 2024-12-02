@@ -33,7 +33,7 @@ So many communities have certain virtual or physical meetups and events with all
 - celebrations
 - and so many more
 
-Let's collect these events, so that people can more easily find events which they might like, but which they might not have previously heard about! On a more generalized scale, this could later evolve into an LLM-based system which ingests the public newsletters from all the listed organizations and then each individual could receive a fully personalized "best of" with only those chunks of information which they previously marked as "this is what I'm interested in" or "this is what is relevant to me".
+Let's collect these events, so that people can more easily find events which they might like, but which they might not have previously heard about! Of course published in a hyperpersonalized way using open standards, such as RSS, iCalendar/ICS, hCalendar, etc. On a more generalized scale, this could later evolve into an LLM-based system which ingests the public newsletters from all the listed organizations and then each individual could receive a fully personalized "best of" with only those chunks of information which they previously marked as "this is what I'm interested in" or "this is what is relevant to me".
 
 ## Collecting social conventions
 
