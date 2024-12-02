@@ -22,12 +22,12 @@ All project management happens on GitHub at https://github.com/hermesloom/ultima
 
 So many communities have certain virtual or physical meetups and events with all kinds of intentions, such as:
 
-- Chill hangouts for everyone to visit
-- Presentations (incl. those at conferences) for a more structured way to convey knowledge
-- Exhibitions of creative works of any medium
-- Co-working in any domain of work (incl. hackathons, makerspaces etc.)
-- Community support groups
-- Celebrations
+- chill hangouts for everyone to visit
+- presentations (incl. those at conferences) for a more structured way to convey knowledge
+- exhibitions of creative works of any medium
+- co-working in any domain of work (incl. hackathons, makerspaces etc.)
+- community support groups
+- celebrations
 - and so many more
 
 Let's collect these events, so that people can more easily find events which they might like, but which they might not have previously heard about! On a more generalized scale, this could later evolve into an LLM-based system which ingests the public newsletters from all the listed organizations and then each individual could receive a fully personalized "best of" with only those chunks of information which they previously marked as "this is what I'm interested in" or "this is what is relevant to me".
@@ -44,7 +44,7 @@ This also includes the reflection of a community's intentions in its **implicit 
 
 ## Better structure and filtering
 
-Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, such as
+Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the structure of the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, depending on a user's desires, such as
 
 - type of link (e.g. community, event, concept, platform, educational resource)
 - purpose and mission, i.e. what is being strived for?
