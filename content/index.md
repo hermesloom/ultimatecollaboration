@@ -1,6 +1,6 @@
 # Intention
 
-Ultimate Collaboration is a **digital encyclopedia**, a kind of "Synergypedia", a collection of links which, in their totality, can offer a less compartmentalized view on movements, communities, ideas and theories which all go along with the abstract societal vision we're having, which, as a working title, I call **"the regenerative societal transformation towards holistic well-being"** (super catchy, I know) or shorter **"holistic regenerative transformation"**. Inspired by the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die), the "Wikipedia of the Enlightenment" which, back in its days, allowed interdisciplinary research like never before, Ultimate Collaboration aims to collect, but most importantly **interconnect** the communities which all work on their piece towards our shared vision of a flourishing world. And instead of publishing books, we do this in the digital and leverage all the magical technological capabilities this new medium gives us.
+Ultimate Collaboration is a **digital encyclopedia**, a kind of "Synergypedia", a collection of links which, in their totality, can offer a less compartmentalized view on movements, communities, ideas and theories which all go along with the abstract societal vision we're having, which, as a working title, I call **"the regenerative societal transformation towards holistic well-being"** (super catchy, I know) or shorter **"holistic regenerative transformation"**. Inspired by the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die), the "Wikipedia of the Enlightenment" which, back in its days, allowed interdisciplinary research like never before, but also counterculture projects like the [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog), Ultimate Collaboration aims to collect, but most importantly **interconnect** the communities which all work on their piece towards our shared vision of a flourishing world. And instead of publishing books, we do this in the digital and leverage all the magical technological capabilities this new medium gives us. 
 
 Ultimate Collaboration is a **call to work on overcoming differences**. All of what's listed here might be slightly different from each other, some maybe a bit more decentralized, some a bit less, some very generalist, some very specialist, some more technical, some more nature-focused, some with a more formalized approach, some with a more intuitive approach, some more pragmatic, some more idealistic. But _somehow_, we all want the same. Never forget this: We are not working against each other. Additionally, note that I don't endorse _all_ the ideas and organizations listed here. But it should become pretty clear from the context which ones make sense, which ones just give a certain new perspective and which ones are counterexamples.
 
@@ -18,15 +18,18 @@ Ultimate Collaboration is a **safe space** with certain cultural standards. We a
 
 All project management happens on GitHub at https://github.com/hermesloom/ultimatecollaboration, according to usual co-creative [open-source governance](https://en.wikipedia.org/wiki/Open-source_governance) conventions. If you're unsure what that means but you simply want to contribute, just open an issue on GitHub with what's on your mind and we'll welcome you with open arms.
 
+First of all, of course please suggest the addition of any further links you see fit! Beyond that, more structural improvements which will be added over time include the following.
+
 ## Collecting events
 
 So many communities have certain virtual or physical meetups and events with all kinds of intentions, such as:
 
 - chill hangouts for everyone to visit
-- presentations (incl. those at conferences) for a more structured way to convey knowledge
+- educational presentations for a more structured way to convey knowledge
 - exhibitions of creative works of any medium
 - co-working in any domain of work (incl. hackathons, makerspaces etc.)
 - community support groups
+- larger events such as summits, conferences, etc.
 - celebrations
 - and so many more
 
@@ -44,7 +47,7 @@ This also includes the reflection of a community's intentions in its **implicit 
 
 ## Better structure and filtering
 
-Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the structure of the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die)? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, depending on a user's desires, such as
+Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_Classification) or the structure of the [Encyclopédie](https://en.wikipedia.org/wiki/Encyclop%C3%A9die), the [Whole Earth Catalog](https://en.wikipedia.org/wiki/Whole_Earth_Catalog) or similar projects? But it's always important to consider: Our eventual goal is to allow filtering by many quantitative and qualitative/semantic dimensions and not just one, depending on a user's desires, such as:
 
 - type of link (e.g. community, event, concept, platform, educational resource)
 - purpose and mission, i.e. what is being strived for?
@@ -54,16 +57,16 @@ Maybe somehow inspired by [UDC](https://en.wikipedia.org/wiki/Universal_Decimal_
 - suggested time investment
 - compatibility with one's own desires (see "Collecting social conventions") and overall current life circumstances
 
-## Measuring effectivity
+## Measuring effectiveness
 
-For evaluating the effectiveness of all the ways to further structure this page, our main purely quantitiative metrics should include:
+For evaluating the effectiveness of all the possible ways to further structure this page, our main purely quantitiative metrics should include:
 
 - number of people that found amazing experiences through us, intellectually and/or emotionally
 - number of people that now say 'this is where I want to belong and where I feel good'
 
 Due to the intentionally subjective phrasing of these metrics as well as the decentralized architecture of Ultimate Collaboration itself, this feedback can only be obtained in an inbound, **self-reported** form through methods which are yet to be set up (e.g. in the beginning something like Google Forms, later more advanced solutions).
 
-These are the metrics that should _always_ be considered when advancing the development of Ultimate Collaboration: We don't collect links for the sake of collecting links or for the sake of the structure we will create, but we collect links to **help people**. If people who have never heard about Ultimate Collaboration before visit this site for the first time, and they feel like it's boring, overwhelming, chaotic etc., we have failed and must improve. Listening to user feedback is essential.
+These are the metrics that should _always_ be considered when advancing the development of Ultimate Collaboration: We don't collect links for the sake of collecting links or for the sake of ordering them, but we collect links to **help people**. If people, who have never heard about Ultimate Collaboration so far, visit this site for the first time, and they feel like it's boring, overwhelming, chaotic etc., we have failed and must improve. Getting access and listening to user feedback is essential. After all, Ultimate Collaboration strives to be accessible to _all humans_, no matter their language, attention span, social and cultural background, technical proficiency, potential physical impairments or level of familiarity with the topics presented here.
 
 ---
 
@@ -175,7 +178,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
-
+  - https://drive.google.com/file/d/1XLIpNjaeR6b5QfxNyyXK4J-YDy2XyIj8/view
 - https://www.youtube.com/watch?v=E_cyCuCKQhs
     - In short, the goal of GameB is a **metastable** society emphasizing human wellbeing built on good values that we will be happy to call home and we will be proud to leave to our descendants. (https://medium.com/@memetic007/a-journey-to-gameb-4fb13772bcf3)
 - https://www.limicon2024.com/
@@ -683,6 +686,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://liqd.net/en/
 - https://partei-des-fortschritts.de/grundsaetze/
 - https://en.wikipedia.org/wiki/Radical_centrism
+- https://www.auswaertiges-amt.de/de/service/laender
 
 # Transhumanism
 
