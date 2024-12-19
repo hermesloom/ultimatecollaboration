@@ -374,6 +374,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://homewards.org.uk/
 - https://charterforcompassion.org/who-we-are/
 - https://hermesloom.org/
+- https://uniteddiversity.coop/
 
 ## Human rights
 
@@ -447,6 +448,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.fastcompany.com/world-changing-ideas/list
 - https://philea.eu/
 - https://cosmos-institute.org/
+- https://www.impacteurope.net/manifesto
 
 ## Asset managers
 
@@ -691,6 +693,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://partei-des-fortschritts.de/grundsaetze/
 - https://en.wikipedia.org/wiki/Radical_centrism
 - https://www.auswaertiges-amt.de/de/service/laender
+- https://de.wikipedia.org/wiki/Stiftungsaufsicht
+  - https://www.arl-lg.niedersachsen.de/startseite/
+- https://apolitical.co/home/
 
 # Transhumanism
 
