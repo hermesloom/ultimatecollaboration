@@ -386,13 +386,14 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - Global Network of Sex Work Projects: https://www.nswp.org/
 - https://cartoonistsrights.org/
 
-## Children
+## Children & Elderly
 
 - https://www.potenzialriesen.de/
 - https://campuspress.yale.edu/infantlab/
 - https://de.m.wikipedia.org/wiki/Rolf_Zuckowski
     - Zuckowski ist der neue Knigge!
 - https://www.superheldenkids.de/
+- https://livsgledeforeldre.no/livsglede-for-eldre-engelsk/
 
 # Economy
 
