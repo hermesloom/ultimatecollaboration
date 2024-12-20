@@ -375,6 +375,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://charterforcompassion.org/who-we-are/
 - https://hermesloom.org/
 - https://uniteddiversity.coop/
+- https://www.buildingbridges.org/ (Lombard Odier connection!)
 
 ## Human rights
 
