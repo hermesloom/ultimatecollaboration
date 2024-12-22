@@ -560,6 +560,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://cpalondon.com/
 - https://1111art.org/
 
+# Medicine
+
+- https://www.beachbodyondemand.com/blog/how-to-reduce-night-sweats (where the body is seen like a machine which must be "fixed", but only acutely through drugs)
+
 # Ecology
 
 - https://smallearthinstitute.com/
@@ -678,6 +682,11 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://hr.wikipedia.org/wiki/Me%C4%91ugorski_fenomen
   - https://www.medjugorje.de/files/user_upload/Neuanlage_Bilder_ab_2023/Botschaften/Alle_Botschaften_der_Muttergottes_Medjugorje_20240625.pdf
 - https://www.youtube.com/watch?v=mV98gVg36p0
+- https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses_publications (a central publishing organization for any belief would institutionalize everything; JW is "scientific belief in the bible", in the sense of "There is one true way")
+  - emerged from Bible Student movement
+  - https://wol.jw.org/en/wol/publication/r1/lp-e/jv
+  - https://www.thestudiesinthescriptures.com/
+  - https://www.jw.org/en/library/books/bible-teach/
 
 # Politics
 
@@ -713,6 +722,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://panlex.org/
 - Universal Esperanto Association: https://uea.org/
+- improving the clarity of terms
+  - https://archive.org/details/on-bullshit-by-harry-frankfurt/page/n9/mode/2up?view=theater
+- https://en.wikipedia.org/wiki/Word_taboo
+  - https://en.wikipedia.org/wiki/Literary_inquisition
 
 # Theatre, dance, music
 
@@ -721,6 +734,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 # Book publishers
 
 - https://www.hachettebookgroup.com/
+- https://www.forgottenbooks.com/en
 
 # Lawyers
 
