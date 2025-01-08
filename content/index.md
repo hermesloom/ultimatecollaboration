@@ -174,6 +174,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://artofhosting.org/
   - https://kelvybird.com/generative-scribing/
 - https://www.spiritual-integrity.org/about-us/
+- https://www.enspiral.com/
+  - https://www.loomio.com/
 
 # Movements
 
@@ -243,6 +245,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.ccc.de/en/hackerethik
   - https://help.ccc.de/principles.en.html
   - https://events.ccc.de/en/calendar/
+- https://wauland.de/de/about/
 
 # Educational resources
 
@@ -423,6 +426,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://brixtonpound.org/
 - https://www.private-banking-magazin.de/investitionen-in-lokalwaehrung-bleiben-interessant/
+- https://algorandtechnologies.com/our-mission
+  - https://governance.algorand.foundation/
+  - https://borderlesscapital.io/
 
 ## Land ownership
 
@@ -494,6 +500,15 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://www.zalf.de/de/Seiten/ZALF.aspx
     - but also: https://www.jetzt.de/textmarker/stadtgemuese-mit-schwermetallen-550604
 
+## Cooperatives
+
+- https://ethikbank.de/
+- https://de.wikipedia.org/wiki/Raiffeisen
+- https://eacb.coop/
+- https://icba.coop/
+- https://ncbaclusa.coop/about-us/mission-and-values/ (also owners of the .coop TLD!)
+  - https://www.cdf.coop/about
+
 # Psychology
 
 - positive psychology
@@ -559,10 +574,6 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.hypnosisalliance.com/imdha/
 - https://cpalondon.com/
 - https://1111art.org/
-
-# Medicine
-
-- https://www.beachbodyondemand.com/blog/how-to-reduce-night-sweats (where the body is seen like a machine which must be "fixed", but only acutely through drugs)
 
 # Ecology
 
