@@ -176,10 +176,12 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.spiritual-integrity.org/about-us/
 - https://www.enspiral.com/
   - https://www.loomio.com/
+  - https://www.festival.enspiral.com/advice-for-participants
+  - https://handbook.enspiral.com/agreements/personal_conduct
 
 # Movements
 
-## Metamodernism, Second Renaissance, Game B, Effective Altruism, Modern Wisdom, Liminal Web
+## Emergent cultural movements
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
@@ -508,6 +510,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://icba.coop/
 - https://ncbaclusa.coop/about-us/mission-and-values/ (also owners of the .coop TLD!)
   - https://www.cdf.coop/about
+- https://ica.coop/en/cooperatives/cooperative-identity
 
 # Psychology
 
@@ -638,7 +641,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.cittaslow.de/
   - https://de.wikipedia.org/wiki/Citt%C3%A0slow
 
-# Spirituality, religion, interfaith, cults
+# Spirituality, religion, interfaith, cults, mythology, belief
 
 - https://parliamentofreligions.org/
   - https://belurmath.org/swami-vivekananda-speeches-at-the-parliament-of-religions-chicago-1893/
@@ -698,6 +701,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://wol.jw.org/en/wol/publication/r1/lp-e/jv
   - https://www.thestudiesinthescriptures.com/
   - https://www.jw.org/en/library/books/bible-teach/
+- https://en.wikipedia.org/wiki/Euterpe
 
 # Politics
 
@@ -742,18 +746,19 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://www.instagram.com/amenti.world
 
-# Book publishers
+# Publishing
 
 - https://www.hachettebookgroup.com/
 - https://www.forgottenbooks.com/en
+- https://treehousecollective.earth/
+  - https://www.vermonthub.ch/mastermind
 
 # Lawyers
 
 - https://holisticlawyers.org/
 - https://www.holisticlegal.org/
 - http://www.holisticlegal.com/
-- henist legal?
-  - Integrative law
+- Integrative law
 - https://www.amberlaw.com/holistic-law/holistic-law-movement/what-is-the-holistic-law-movement
   - reframing justice from a win- lose duality lens, to a win-win non-duality viewpoint
 - https://www.awakeninglawyers.com/
