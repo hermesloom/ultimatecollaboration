@@ -505,6 +505,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 ## Cooperatives
 
 - https://ethikbank.de/
+  - https://www.fairfinanceguide.de/ffg-d/bewertung/
 - https://de.wikipedia.org/wiki/Raiffeisen
 - https://eacb.coop/
 - https://icba.coop/
@@ -722,6 +723,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://de.wikipedia.org/wiki/Stiftungsaufsicht
   - https://www.arl-lg.niedersachsen.de/startseite/
 - https://apolitical.co/home/
+- https://diem25.org/uber-uns/
+  - https://progressive.international/about/de
 
 # Transhumanism
 
