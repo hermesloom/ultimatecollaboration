@@ -133,6 +133,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://blog.burnerembassy.berlin/
     - https://the.burn.directory/
     - https://burningnest.co.uk/2022/03/07/introducing-leave-a-better-trace/
+    - https://sunburntarts.org.au/
 - Radical Faeries
     - https://en.m.wikipedia.org/wiki/Radical_Faeries
     - https://blog.queerburners.org/2-tribes-burner-v-faerie
@@ -193,6 +194,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://stephenreid.net/
 - https://stephenreid.substack.com/p/technological-metamodernism-course
 - https://www.effectivealtruism.org/
+  - https://en.wikipedia.org/wiki/Effective_accelerationism
+  - https://euacc.com/
 - https://www.lesswrong.com/
 - https://dandelion.events/films
 - https://www.youtube.com/@johnvervaeke/videos
