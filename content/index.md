@@ -196,6 +196,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.effectivealtruism.org/
   - https://en.wikipedia.org/wiki/Effective_accelerationism
   - https://euacc.com/
+  - https://a16z.com/the-techno-optimist-manifesto/
 - https://www.lesswrong.com/
 - https://dandelion.events/films
 - https://www.youtube.com/@johnvervaeke/videos
@@ -234,11 +235,12 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.eranosfoundation.org/page.php?page=2&pagename=mission
 - https://de.wikipedia.org/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
 
-## Wikimedia
+## Open source
 
 - https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct
     - https://outreach.wikimedia.org/wiki/Wikimedia:Village_pump
     - https://meta.wikimedia.org/wiki/Movement_Charter
+- https://supabase.com/blog/should-i-open-source-my-company
 
 ## German "Kollektive"
 
@@ -348,11 +350,13 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://holyloveinstitute.com/foundation/kaula-tantra/
 - https://ista.life/
 - https://andyburu.se/home/
+- https://bedtalks.org/
 
 ## Societal
 
 - https://sdgs.un.org/goals
 - https://www.moralambition.eu/
+  - https://www.momkai.com/
 - https://thesocialchangenest.org/our-story/
 - https://www.ashoka.org/
 - https://dosomething.org/
@@ -384,6 +388,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://hermesloom.org/
 - https://uniteddiversity.coop/
 - https://www.buildingbridges.org/ (Lombard Odier connection!)
+- https://cividata.org/en/
 
 ## Human rights
 
