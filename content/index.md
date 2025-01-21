@@ -200,6 +200,12 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.lesswrong.com/
 - https://dandelion.events/films
 - https://www.youtube.com/@johnvervaeke/videos
+- https://www.becomingcrew.com/
+  - https://www.thespaceship.earth/
+  - https://www.bio-leadership.org/
+  - https://www.huddlecraft.com/
+  - https://weareocean.blue/
+  - https://stories.life/
 
 ## Commons
 
