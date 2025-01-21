@@ -615,6 +615,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.fao.org/soils-2015/faq/en/
   - -> Integrated Nutrient Management!
 - https://www.thevenusproject.com/
+- https://sacredinstructions.life/
 
 # Philosophy
 
@@ -795,10 +796,6 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.uncensoredlibrary.com/
 - https://aeon.co/about
   - https://psyche.co/
-
-# Indigenous
-
-- https://sacredinstructions.life/
 
 # Miscellaneous
 
