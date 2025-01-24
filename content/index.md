@@ -157,6 +157,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://futurecrafters.substack.com/p/futurecraft-at-feytopia
 - https://thegarden.love/
   - https://www.youtube.com/watch?v=snz-X4fWZBo
+- https://www.skylarkgatherings.com/
 
 ## Organizations and leadership
 
@@ -395,6 +396,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://uniteddiversity.coop/
 - https://www.buildingbridges.org/ (Lombard Odier connection!)
 - https://cividata.org/en/
+- https://www.cen.org/mission.html
 
 ## Human rights
 
@@ -413,6 +415,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - Zuckowski ist der neue Knigge!
 - https://www.superheldenkids.de/
 - https://livsgledeforeldre.no/livsglede-for-eldre-engelsk/
+
+## Philanthropy
+
+- https://www.longview.org/about/
 
 # Economy
 
@@ -761,9 +767,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://en.wikipedia.org/wiki/Word_taboo
   - https://en.wikipedia.org/wiki/Literary_inquisition
 
-# Theatre, dance, music
+# Art
 
 - https://www.instagram.com/amenti.world
+- https://glaze.cs.uchicago.edu/aboutus.html
 
 # Publishing
 
