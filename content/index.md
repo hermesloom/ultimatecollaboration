@@ -455,6 +455,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.crowdpower.network/de
 - https://charleseisenstein.org/books/sacred-economics/
 - https://www.econgood.org/
+- https://guide.cobudget.com/
 
 ## Alternative currencies
 
