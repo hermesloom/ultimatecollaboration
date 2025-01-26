@@ -400,6 +400,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.buildingbridges.org/ (Lombard Odier connection!)
 - https://cividata.org/en/
 - https://www.cen.org/mission.html
+- https://bioneers.org/about/purpose/
+- https://www.idealist.org/en
 
 ## Human rights
 
@@ -455,7 +457,11 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.crowdpower.network/de
 - https://charleseisenstein.org/books/sacred-economics/
 - https://www.econgood.org/
-- https://guide.cobudget.com/
+- Dreams
+  - https://guide.cobudget.com/
+  - https://hermesloom.org/dreams
+- Quadratic Funding: https://www.wtfisqf.com/
+  - https://www.gitcoin.co/
 
 ## Alternative currencies
 
