@@ -158,6 +158,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://thegarden.love/
   - https://www.youtube.com/watch?v=snz-X4fWZBo
 - https://www.skylarkgatherings.com/
+- many more transformational communities: https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
 
 ## Organizations and leadership
 
@@ -282,6 +283,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://www.ncbi.nlm.nih.gov/books/NBK189562/ seems like they used very simplistic questions to measure well-being!
     - the World Happiness Report 2016 argues that **well-being inequality has a stronger negative impact on how we feel about our live than income inequality**. (!!!)
 - https://worldhappinesssummit.com/como-wellbeing-manifesto/
+- https://www.authentichappiness.sas.upenn.edu/ (by Seligman)
 
 # Policymaking
 
@@ -419,6 +421,15 @@ The following projects, as well as all other "mapping projects" we can find, nee
 ## Philanthropy
 
 - https://www.longview.org/about/
+
+## Movement building
+
+- https://www.momentumcommunity.org/
+- https://ayni.institute/
+- https://beautifultrouble.org/
+- https://www.purpose.com/
+- https://thesocialchangeagency.org/
+- https://skoll.org/
 
 # Economy
 
@@ -757,6 +768,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://psychedelicsocietyberlin.org/
 - https://www.psykedeliskasallskapet.se/
 - https://www.awaki.ai/
+- https://www.psychedelicare.eu/
 
 # Language
 
@@ -803,6 +815,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.uncensoredlibrary.com/
 - https://aeon.co/about
   - https://psyche.co/
+- https://en.wikipedia.org/wiki/Constructive_journalism
+  - https://vol.media/
 
 # Miscellaneous
 
