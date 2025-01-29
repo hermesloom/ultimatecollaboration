@@ -361,6 +361,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://ista.life/
 - https://andyburu.se/home/
 - https://bedtalks.org/
+- https://pornalist.net/about/
 
 ## Societal
 
@@ -641,6 +642,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - -> Integrated Nutrient Management!
 - https://www.thevenusproject.com/
 - https://sacredinstructions.life/
+- https://play.eco/
 
 # Philosophy
 
@@ -798,6 +800,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.forgottenbooks.com/en
 - https://treehousecollective.earth/
   - https://www.vermonthub.ch/mastermind
+- illustrating how broken academia can be: https://www.youtube.com/watch?v=ChS0eT683bA
 
 # Lawyers
 
