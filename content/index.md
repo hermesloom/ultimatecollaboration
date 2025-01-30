@@ -768,6 +768,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://diem25.org/uber-uns/
   - https://progressive.international/about/de
 - https://diebasis-partei.de/partei/4-saeulen/
+- https://de.wikipedia.org/wiki/Polizeiordnung
 
 # Transhumanism
 
