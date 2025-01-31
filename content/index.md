@@ -183,6 +183,18 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.festival.enspiral.com/advice-for-participants
   - https://handbook.enspiral.com/agreements/personal_conduct
 
+## D. H. Lawrence
+
+- https://www.youtube.com/watch?v=WPvBzTVErOo (esp. from 8:35 min)
+- The Rainbow: https://www.gutenberg.org/cache/epub/28948/pg28948-images.html
+- https://journals.openedition.org/lawrence/3260
+  - "to form the nucleus of a new community which shall start a new life amongst us, a life in which the only riches is integrity of character. So that each one may fulfil his own nature and deep desires to the utmost, but wherein the ultimate satisfaction and joy is in the completeness of us all as one. […] We can all come croppers, but what does it matter? We can laugh at each other, and dislike each other, but the good remains, and we know it. And the new community shall be established upon the known, eternal good part in us. […] I hold this the most sacred duty – the gathering together of a number of people who shall so agree to live by the best they know, that they shall be free to live by the best they know."
+  - "It is not really the bone we are fighting for. We are fighting to have somebody's head off."
+  - "We're all human beings, after all. And why can't we try really to leave off struggling against one another, and set up a new state of things?"
+- https://catherinebrown.org/lawrence-group/
+- Hauptaussagen: https://chatgpt.com/share/679bc389-0df8-8003-89a3-f840890e2c24
+- https://www.bloomsbury.com/uk/burning-man-9781408893654/
+
 # Movements
 
 ## Emergent cultural movements
@@ -658,6 +670,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - “Sie regen vielmehr weitere literarische oder intellektuelle Produktion an, die die Frühromantik programmatisch als gesellig-gemeinschaftliche, nämlich als „Symphilosophieren“ verstanden hat.”
 - https://www.kevindorst.com/
     - “I develop and deploy better models of rationality to help refine our interpretation of the empirical results, and square them with our own experiences of (ir)rationality.“
+- https://www.unionofegoists.com/
 
 # Architecture and design
 
