@@ -185,6 +185,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 ## D. H. Lawrence
 
+- D. H. Lawrence = Burns (but less temporariness) + Crunchytown
 - https://www.youtube.com/watch?v=WPvBzTVErOo (esp. from 8:35 min)
 - The Rainbow: https://www.gutenberg.org/cache/epub/28948/pg28948-images.html
 - https://journals.openedition.org/lawrence/3260
@@ -221,6 +222,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.huddlecraft.com/
   - https://weareocean.blue/
   - https://stories.life/
+- https://www.peterlimberg.com/ (The Stoa)
 
 ## Commons
 
@@ -274,6 +276,15 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://help.ccc.de/principles.en.html
   - https://events.ccc.de/en/calendar/
 - https://wauland.de/de/about/
+
+## Generalists
+
+- https://interintellect.com/
+- https://www.generalist.world/
+
+## Social Entrepreneurship
+
+- https://unreasonablegroup.com/ (only for scale-ups)
 
 # Educational resources
 
@@ -355,6 +366,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.iwgddb.com/
 - https://www.adec.org/
 - https://amp.focus.de/familie/erziehung/kita-auf-einem-friedhof-abenteuerspielplatz-zwischen-graebern_id_4302572.html
+- https://www.morbidanatomy.org/
 
 ## Health
 
@@ -415,6 +427,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.cen.org/mission.html
 - https://bioneers.org/about/purpose/
 - https://www.idealist.org/en
+- https://www.techforgood.net/
 
 ## Human rights
 
@@ -475,6 +488,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://hermesloom.org/dreams
 - Quadratic Funding: https://www.wtfisqf.com/
   - https://www.gitcoin.co/
+- https://rsfsocialfinance.org/
 
 ## Alternative currencies
 
@@ -782,6 +796,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://progressive.international/about/de
 - https://diebasis-partei.de/partei/4-saeulen/
 - https://de.wikipedia.org/wiki/Polizeiordnung
+- https://de.wikipedia.org/wiki/Parecon
 
 # Transhumanism
 
@@ -834,14 +849,16 @@ The following projects, as well as all other "mapping projects" we can find, nee
 # Technology
 
 - https://pir.org/
+- https://mifos.org/ (open source core banking system)
 
-# Journalism
+# Writers
 
 - https://www.uncensoredlibrary.com/
 - https://aeon.co/about
   - https://psyche.co/
 - https://en.wikipedia.org/wiki/Constructive_journalism
   - https://vol.media/
+- https://www.foster.co/
 
 # Miscellaneous
 
