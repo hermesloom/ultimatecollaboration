@@ -640,6 +640,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://www.howtokillanarcissist.com/artikel-zum-thema-narzissmus/ein-leitfaden-zur-heilung-von-narzisstischem-missbrauch/
     - https://www.amazon.de/-/en/Dr-Craig-Malkin/dp/0062348116
     - https://www.amazon.de/Escaping-Void-Support-Emotionally-Relationships/dp/139994813X/
+    - https://escapingthevoid.com/
 - https://rtt.com/ (Rapid Transformational Therapy)
 - https://www.hypnosisalliance.com/imdha/
 - https://cpalondon.com/
@@ -841,6 +842,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - reframing justice from a win- lose duality lens, to a win-win non-duality viewpoint
 - https://www.awakeninglawyers.com/
   - https://s3.amazonaws.com/kajabi-storefronts-production/sites/2147527131/downloads/2B76wYj3QdgusBqjSrmc_Awakening_Lawyers_Giveaway_Guide.pdf
+- pro bono movement
+  - https://www.pilnet.org/our-work/european-pro-bono-alliance/members/
+  - https://probono-rechtsberatung.de/
 
 # Food
 
