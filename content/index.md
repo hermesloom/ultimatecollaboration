@@ -258,24 +258,25 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.eranosfoundation.org/page.php?page=2&pagename=mission
 - https://de.wikipedia.org/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
 
-## Open source
+## Open source, Hackers, Decentralization
 
 - https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct
     - https://outreach.wikimedia.org/wiki/Wikimedia:Village_pump
     - https://meta.wikimedia.org/wiki/Movement_Charter
 - https://supabase.com/blog/should-i-open-source-my-company
+- https://www.ccc.de/en/hackerethik
+  - https://help.ccc.de/principles.en.html
+  - https://events.ccc.de/en/calendar/
+- https://wauland.de/de/about/
+- https://getdweb.net/principles/
+  - https://dwebcamp.org/
+- https://dod.ngo/
+  - https://protocol.berlin/
 
 ## German "Kollektive"
 
 - https://www.kdk.coop/
 - https://lebensbogen.org/gemeinschaft/ueber-uns
-
-## Hackers
-
-- https://www.ccc.de/en/hackerethik
-  - https://help.ccc.de/principles.en.html
-  - https://events.ccc.de/en/calendar/
-- https://wauland.de/de/about/
 
 ## Generalists
 
@@ -489,6 +490,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - Quadratic Funding: https://www.wtfisqf.com/
   - https://www.gitcoin.co/
 - https://rsfsocialfinance.org/
+- https://nexteconomylab.de/
 
 ## Alternative currencies
 
@@ -818,6 +820,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://archive.org/details/on-bullshit-by-harry-frankfurt/page/n9/mode/2up?view=theater
 - https://en.wikipedia.org/wiki/Word_taboo
   - https://en.wikipedia.org/wiki/Literary_inquisition
+- https://bigduck.com/insights/how-can-a-language-guide-help-your-nonprofit/
 
 # Art
 
