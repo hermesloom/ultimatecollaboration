@@ -806,6 +806,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://diebasis-partei.de/partei/4-saeulen/
 - https://de.wikipedia.org/wiki/Polizeiordnung
 - https://de.wikipedia.org/wiki/Parecon
+- https://www.panarchy.org/
+  - https://www.panarchy.org/books/Panarchy-Print.pdf
 
 # Transhumanism
 
