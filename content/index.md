@@ -283,9 +283,14 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://interintellect.com/
 - https://www.generalist.world/
 
+## Syntheism
+
+- https://repository.library.brown.edu/studio/item/bdr:697699/PDF/
+
 ## Social Entrepreneurship
 
 - https://unreasonablegroup.com/ (only for scale-ups)
+- https://www.social-impact-republic.org/
 
 # Educational resources
 
