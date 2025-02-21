@@ -272,6 +272,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://dwebcamp.org/
 - https://dod.ngo/
   - https://protocol.berlin/
+- https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
 
 ## German "Kollektive"
 
@@ -393,6 +394,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://bedtalks.org/
 - https://pornalist.net/about/
 - https://kein-taeter-werden.de/
+- https://en.wikipedia.org/wiki/Coitus_reservatus
+- https://www.litadaa.com/litadaa
 
 ## Societal
 
@@ -865,6 +868,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://pir.org/
 - https://mifos.org/ (open source core banking system)
+- https://bluematt.bitcoin.ninja/about/
 
 # Writers
 
