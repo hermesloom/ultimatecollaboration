@@ -134,6 +134,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://the.burn.directory/
     - https://burningnest.co.uk/2022/03/07/introducing-leave-a-better-trace/
     - https://sunburntarts.org.au/
+    - https://journals.h-net.org/jfs/article/view/v5_burnverse/v5_burnverse_pdf
+      - https://www.aboutpop.de/artist/dr-botond-vitos/
+      - https://leuphana.academia.edu/BotondVitos
 - Radical Faeries
     - https://en.m.wikipedia.org/wiki/Radical_Faeries
     - https://blog.queerburners.org/2-tribes-burner-v-faerie
@@ -279,10 +282,11 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.kdk.coop/
 - https://lebensbogen.org/gemeinschaft/ueber-uns
 
-## Generalists
+## Generalists, Multipotentialites
 
 - https://interintellect.com/
 - https://www.generalist.world/
+- http://theputtyverse.com/
 
 ## Syntheism
 
@@ -490,6 +494,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - finsubs
 - https://de.wikipedia.org/wiki/Soziale_%C3%96kologie_(Bookchin)
 - mutual promotion and support of businesses: https://hundert-prozent-amerang.de/gewerbeverzeichnis/
+  - „Tradition ist nicht das Bewahren der Asche, sondern das Weitergeben des Feuers.“
 - https://www.crowdpower.network/de
 - https://charleseisenstein.org/books/sacred-economics/
 - https://www.econgood.org/
@@ -500,6 +505,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.gitcoin.co/
 - https://rsfsocialfinance.org/
 - https://nexteconomylab.de/
+- https://darkmatterlabs.org/
 
 ## Alternative currencies
 
@@ -784,6 +790,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.thestudiesinthescriptures.com/
   - https://www.jw.org/en/library/books/bible-teach/
 - https://en.wikipedia.org/wiki/Euterpe
+- https://vanatru.eu/die-tugenden-der-vanatru-forn-sidr
+  - https://altheidentum.beepworld.de/
 
 # Politics
 
