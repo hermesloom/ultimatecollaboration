@@ -820,6 +820,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://de.wikipedia.org/wiki/Parecon
 - https://www.panarchy.org/
   - https://www.panarchy.org/books/Panarchy-Print.pdf
+- https://falkvinge.net/files/2012/manual/PirateWheel-2012-11-10.pdf
 
 # Transhumanism
 
