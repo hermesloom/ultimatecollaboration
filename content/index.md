@@ -508,6 +508,12 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://nexteconomylab.de/
 - https://darkmatterlabs.org/
 
+## Participatory budgeting
+
+- https://dreaming.now
+- https://cobudget.com/borderland/borderland-dreams-2025/about
+- https://www.local.gov.uk/case-studies/case-study-porto-alegre-brazil
+
 ## Alternative currencies
 
 - https://brixtonpound.org/
