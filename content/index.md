@@ -137,6 +137,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://journals.h-net.org/jfs/article/view/v5_burnverse/v5_burnverse_pdf
       - https://www.aboutpop.de/artist/dr-botond-vitos/
       - https://leuphana.academia.edu/BotondVitos
+    - https://otherworld.ca/principlesandpolicies
 - Radical Faeries
     - https://en.m.wikipedia.org/wiki/Radical_Faeries
     - https://blog.queerburners.org/2-tribes-burner-v-faerie
@@ -162,7 +163,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://thegarden.love/
   - https://www.youtube.com/watch?v=snz-X4fWZBo
 - https://www.skylarkgatherings.com/
-- many more transformational communities: https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
+- many more transformational communities
+  - https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
+  - https://www.google.com/maps/d/u/0/viewer?mid=1QWAa8AYdFShGu6AgvK0ePUkgogGFEl8&ll=36.85258968410625%2C-100.65593893193557&z=5
 - https://www.traditionaldreamfactory.com/
 
 ## Organizations and leadership
@@ -202,7 +205,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 # Movements
 
-## Emergent cultural movements
+## Metacrisis
 
 - https://lifeitself.org/
   - according to a member: The reason “Life Itself” is chosen for this organisation though, as far as I can tell, is that it’s a community of people who for the most part believe that the foundational views and values of modernity/postmodernity/the enlightenment, while not inherently bad, encourage a world and way of being which don’t fully capture the fullness and possibilities of human life or life in general, and tend to neglect things like inner development, the interconnectedness of all things, and the inherent mystery of being here. A lot of people here think that we need a civilisational transition into something else, and this space acts as a way to explore what these shifts in views and values looks like.
@@ -296,6 +299,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 ## Systems Entrepreneurship
 
 - Systems entrepreneurship: a conceptual substantiation of a novel entrepreneurial “species”: https://link.springer.com/article/10.1007/s11625-020-00850-6
+  - https://medium.com/@RachelmSinha
+  - https://systemsanctuary.com/
 - https://en.wikipedia.org/wiki/Social_innovation
 - https://henophilia.art
 - social entrepreneurship
