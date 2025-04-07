@@ -151,6 +151,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://chuffed.org/project/help-save-crunchy-town
     - failed because of lack of location and money
 - https://de.m.wikipedia.org/wiki/Auroville
+  - https://dev.earth-auroville.com/
 - https://de.m.wikipedia.org/wiki/Damanhur_(Lebensgemeinschaft)
     - different membership stages and "paths"
 - https://www.kliemannsland.de/
@@ -292,10 +293,19 @@ The following projects, as well as all other "mapping projects" we can find, nee
 
 - https://repository.library.brown.edu/studio/item/bdr:697699/PDF/
 
-## Social Entrepreneurship
+## Systems Entrepreneurship
 
-- https://unreasonablegroup.com/ (only for scale-ups)
-- https://www.social-impact-republic.org/
+- Systems entrepreneurship: a conceptual substantiation of a novel entrepreneurial “species”: https://link.springer.com/article/10.1007/s11625-020-00850-6
+- https://en.wikipedia.org/wiki/Social_innovation
+- https://henophilia.art
+- social entrepreneurship
+  - https://unreasonablegroup.com/ (only for scale-ups)
+  - https://www.social-impact-republic.org/
+
+## Solarpunk
+
+- https://www.re-des.org/es/a-solarpunk-manifesto/
+
 
 # Educational resources
 
@@ -669,6 +679,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.hypnosisalliance.com/imdha/
 - https://cpalondon.com/
 - https://1111art.org/
+- https://en.wikipedia.org/wiki/Schizoanalysis
 
 # Ecology
 
