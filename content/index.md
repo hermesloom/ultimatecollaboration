@@ -234,6 +234,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 ## Commons
 
 - https://p2pfoundation.net/the-p2p-foundation/about-the-p2p-foundation
+    - https://p2pfoundation.net/infrastructure/our-guiding-principles
     - https://wiki.p2pfoundation.net/International_Commons_Conference_-_2010
 - https://commonsstrategies.org/about/
 
@@ -528,6 +529,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://dreaming.now
 - https://cobudget.com/borderland/borderland-dreams-2025/about
 - https://www.local.gov.uk/case-studies/case-study-porto-alegre-brazil
+- https://de.wikipedia.org/wiki/B%C3%BCrgerhaushalt
 
 ## Alternative currencies
 
