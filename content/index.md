@@ -530,6 +530,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://cobudget.com/borderland/borderland-dreams-2025/about
 - https://www.local.gov.uk/case-studies/case-study-porto-alegre-brazil
 - https://de.wikipedia.org/wiki/B%C3%BCrgerhaushalt
+- Participatory Budgeting World Atlas 2020/21: https://drive.google.com/file/d/14HADtrmNK18DnWrjEuHdYpUdcKHW4Wpo/view
+  - published by https://www.oficina.org.pt/publicacoes
+- "Participatory budgeting: A pathway to inclusive and transparent governance" by European Parliamentary Research Service: https://www.europarl.europa.eu/RegData/etudes/BRIE/2024/762412/EPRS_BRI(2024)762412_EN.pdf
+- PB in schools: https://www.participatorybudgeting.org/wp-content/uploads/2016/10/PB-in-Schools-Guide_PBP.pdf
 
 ## Alternative currencies
 
@@ -687,6 +691,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://cpalondon.com/
 - https://1111art.org/
 - https://en.wikipedia.org/wiki/Schizoanalysis
+- https://complicated.life/
 
 # Ecology
 
