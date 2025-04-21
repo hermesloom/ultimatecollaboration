@@ -527,6 +527,13 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://rsfsocialfinance.org/
 - https://nexteconomylab.de/
 - https://darkmatterlabs.org/
+- https://www.cluetrain.com/index.html
+
+## Freiwirtschaft
+
+- https://en.wikipedia.org/wiki/Freiwirtschaft
+- https://unterguggenberger.org/
+- https://freico.in/
 
 ## Participatory budgeting
 
@@ -921,6 +928,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://en.wikipedia.org/wiki/Constructive_journalism
   - https://vol.media/
 - https://www.foster.co/
+
+# Marketing
+
+- https://zebragrowth.notion.site/Impact-Freelance-Marketers-Creatives-Database-10bff482fc494cf19c4beae06bda45b6
 
 # Miscellaneous
 
