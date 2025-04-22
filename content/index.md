@@ -269,6 +269,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://en.wikipedia.org/wiki/David_Bohm
 - https://www.eranosfoundation.org/page.php?page=2&pagename=mission
 - https://de.wikipedia.org/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
+- https://teslasciencecenter.org/wp-content/uploads/2022/04/THE-PROBLEM-OF-INCREASING-HUMAN-ENERGY_Century_Magazine.pdf
 
 ## Open source, Hackers, Decentralization
 
