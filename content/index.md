@@ -636,6 +636,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://www.cdf.coop/about
 - https://ica.coop/en/cooperatives/cooperative-identity
 
+## Financial health
+
+- https://financial-health-initiative.de/
+
 # Psychology
 
 - positive psychology
