@@ -171,6 +171,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://tuckerwalsh.medium.com/transformational-communities-cd9e41053423
   - https://www.google.com/maps/d/u/0/viewer?mid=1QWAa8AYdFShGu6AgvK0ePUkgogGFEl8&ll=36.85258968410625%2C-100.65593893193557&z=5
 - https://www.traditionaldreamfactory.com/
+- https://www.tamera.org/
+  - https://intrototamera2023.sutra.co/space/ok3vm6/content
 
 ## Organizations and leadership
 
