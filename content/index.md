@@ -236,6 +236,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://weareocean.blue/
   - https://stories.life/
 - https://www.peterlimberg.com/ (The Stoa)
+- https://www.meaningalignment.org/
+- https://regennaissance-lnq2lo2.gamma.site/
+- https://www.darkren.network/
 
 ## Commons
 
@@ -243,6 +246,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
     - https://p2pfoundation.net/infrastructure/our-guiding-principles
     - https://wiki.p2pfoundation.net/International_Commons_Conference_-_2010
 - https://commonsstrategies.org/about/
+- https://github.com/interplaynetary/free-association/tree/commons
 
 ## Secret societies
 
