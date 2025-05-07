@@ -542,6 +542,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://unterguggenberger.org/
 - https://freico.in/
 
+## Catalytic Capital
+
+- https://catalyticcapitalconsortium.org/why-catalytic-capital/
+
 ## Participatory budgeting
 
 - https://dreaming.now
