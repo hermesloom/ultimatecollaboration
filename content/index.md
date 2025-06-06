@@ -293,6 +293,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://protocol.berlin/
 - https://en.wikipedia.org/wiki/Benevolent_dictator_for_life
 - https://de.wikipedia.org/wiki/Ham_Spirit
+- http://hackathon.web3privacy.info/manual
+  - https://hackathon.web3privacy.info/info
 
 ## German "Kollektive"
 
@@ -320,10 +322,10 @@ The following projects, as well as all other "mapping projects" we can find, nee
   - https://unreasonablegroup.com/ (only for scale-ups)
   - https://www.social-impact-republic.org/
 
-## Solarpunk
+## Solarpunk / Lunarpunk
 
 - https://www.re-des.org/es/a-solarpunk-manifesto/
-
+- https://solarpunkmagazine.com/what-is-lunarpunk/
 
 # Educational resources
 
