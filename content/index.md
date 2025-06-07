@@ -545,6 +545,15 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://unterguggenberger.org/
 - https://freico.in/
 
+## Sovereign Money (Vollgeld)
+
+- https://sovereignmoney.site/what-is-sovereign-money
+- https://vollgeld.page/
+- https://www.youtube.com/watch?v=UxReGQsaK5Q
+- https://monetative.de/
+- https://www.youtube.com/watch?v=6yXKGK_UIJs
+- https://positivemoney.org.nz/debt-based-money/
+
 ## Catalytic Capital
 
 - https://catalyticcapitalconsortium.org/why-catalytic-capital/
