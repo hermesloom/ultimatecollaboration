@@ -431,6 +431,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://en.wikipedia.org/wiki/Coitus_reservatus
 - https://www.litadaa.com/litadaa
 - https://www.societyservice.com/about-the-virgin-experience
+- https://sistersacademy.dk/
 
 ## Societal
 
@@ -730,6 +731,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://1111art.org/
 - https://en.wikipedia.org/wiki/Schizoanalysis
 - https://complicated.life/
+- https://v-i-d.com/ehrenkodex/
 
 # Ecology
 
