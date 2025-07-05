@@ -539,6 +539,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://nexteconomylab.de/
 - https://darkmatterlabs.org/
 - https://www.cluetrain.com/index.html
+- https://wirtschaft-ist-care.org/
 
 ## Freiwirtschaft
 
