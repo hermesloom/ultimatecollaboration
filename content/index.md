@@ -432,6 +432,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.litadaa.com/litadaa
 - https://www.societyservice.com/about-the-virgin-experience
 - https://sistersacademy.dk/
+- https://www.fetishzone.net/store/
 
 ## Societal
 
