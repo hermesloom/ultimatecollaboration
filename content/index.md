@@ -277,7 +277,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://de.wikipedia.org/wiki/Encyclop%C3%A9die_ou_Dictionnaire_raisonn%C3%A9_des_sciences,_des_arts_et_des_m%C3%A9tiers
 - https://teslasciencecenter.org/wp-content/uploads/2022/04/THE-PROBLEM-OF-INCREASING-HUMAN-ENERGY_Century_Magazine.pdf
 
-## Open source, Hackers, Amateur Radio, Decentralization
+## Open source, Hackers, Amateur Radio, Decentralization, Cypherpunk, DeFi Punk
 
 - https://foundation.wikimedia.org/wiki/Policy:Universal_Code_of_Conduct
     - https://outreach.wikimedia.org/wiki/Wikimedia:Village_pump
@@ -295,7 +295,8 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://de.wikipedia.org/wiki/Ham_Spirit
 - http://hackathon.web3privacy.info/manual
   - https://hackathon.web3privacy.info/info
-
+- ![DeFiPunk Scoring](/images/defipunk-scoring.png)
+  
 ## German "Kollektive"
 
 - https://www.kdk.coop/
