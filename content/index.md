@@ -434,6 +434,9 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - https://www.societyservice.com/about-the-virgin-experience
 - https://sistersacademy.dk/
 - https://www.fetishzone.net/store/
+- https://www.grokio.com/
+- https://aella.substack.com/
+- https://www.slutcon.com/
 
 ## Societal
 
