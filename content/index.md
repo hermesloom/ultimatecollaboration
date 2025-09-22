@@ -296,6 +296,7 @@ The following projects, as well as all other "mapping projects" we can find, nee
 - http://hackathon.web3privacy.info/manual
   - https://hackathon.web3privacy.info/info
 - ![DeFiPunk Scoring](/images/defipunk-scoring.png)
+- https://cypherpunk.camp/
   
 ## German "Kollektive"
 
